@@ -1,0 +1,1 @@
+# DGA-Algorithm-Detection
