@@ -64,6 +64,8 @@ The **Random Forest** classifier was chosen for its robustness and ability to ha
   - `malware-botnet.net`: A domain associated with a botnet spreading malware across multiple devices.
 
 ![image](https://github.com/user-attachments/assets/0e51ad04-49b8-4fa7-8f65-795bd27443a5)
+![image](https://github.com/user-attachments/assets/6fd98693-f156-4aec-9e21-b56f6aa71008)
+![image](https://github.com/user-attachments/assets/cb25455e-35f7-4b76-a76e-1aa4196cecc2)
 
 
 
