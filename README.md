@@ -1,4 +1,4 @@
-# DGA-Algorithm-Detection
+# Detecting Tricky Domains
 
 ## Problem Statement
 
