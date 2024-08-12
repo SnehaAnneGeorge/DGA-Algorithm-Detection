@@ -63,3 +63,5 @@ The **Random Forest** classifier was chosen for its robustness and ability to ha
   - `xyz-download.com`: A domain enticing users to download a file that contains malware.
   - `malware-botnet.net`: A domain associated with a botnet spreading malware across multiple devices.
 
+![Sample output image failed to load]("C:\Users\Sneha Anne George\Downloads\sample_run_1.png")
+
